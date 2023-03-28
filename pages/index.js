@@ -30,7 +30,7 @@ transition={{ duration: 0.5, delay: 1.5 }}
       <main className={styles.main}>
 
         <img className="cover" src="/halastracover.png" />
-        <a className="buy" target="_blank" href="#" rel="noopener noreferrer">
+        <a className="buy" target="_blank" href="https://muzyka.sklep.pl/halastra" rel="noopener noreferrer">
           <img src="/halastrabutton.png" />
         </a>
       
